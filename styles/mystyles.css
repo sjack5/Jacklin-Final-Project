@@ -1,0 +1,34 @@
+h1{
+    color: white;
+}
+h4{
+    text-align: center;
+    color: black;
+}
+p{
+    font-size: medium;
+    text-align:center;
+}
+body{
+    background-color: rgb(88, 230, 230);
+}
+h5{
+    text-align: center;
+    color: black;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+h6{
+    text-align: center;
+}
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+}
+hr.my-4{
+    border: 2px solid black;
+    width: 100%;margin-left: auto;margin-right: auto;
+}

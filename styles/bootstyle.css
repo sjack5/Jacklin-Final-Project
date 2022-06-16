@@ -1,0 +1,56 @@
+h2{
+   color: black; 
+   text-align:left;
+}
+
+p{
+    text-indent: 1cm;
+}
+
+.head{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    text-decoration:solid;
+}
+
+body{
+    border: 1mm;
+    padding: 10px;
+    border-style: groove;
+    border-color: red;
+    background-color: steelblue;
+}
+
+.standard{
+    background-color: steelblue;
+}
+
+.Navigation{
+    right: 5px;
+    background-color: slategray;
+    left: 5px;
+    display: inline-block;
+}
+
+.Tableau{
+    right: 5px;
+    background-color: slategray;
+    left: 5px;
+}
+
+.Footer{
+    right: 5px;
+    background-color: forestgreen;
+    left: 5px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr.dashed {
+    border-top: 5px dotted red;
+}
+
+h4{
+    display: inline;
+}
